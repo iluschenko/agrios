@@ -1,0 +1,23 @@
+NOTES:
+
+Slideshow necessary addons depending on type of slideshow
+
+
+VIEWS SLIDESHOW   (slideshow 3 example)
+    Needs   Jquery.cycle    under libraries.  from http://malsup.com/jquery/cycle.(make sure has all needed files within
+      and
+            Json2     for extra features/optins.
+
+    http://malsup.com/jquery/cycle/options.html     For Extra Custom Options if desired
+
+
+
+jssor (slideshow 2 example)
+    Needs jssor-slider  under libraries
+
+
+
+NIVO slider  (example 4 )
+		NOT working for d8 yet
+
+
